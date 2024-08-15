@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+    body{
+        background-color: rgb(75, 74, 74);
+    }
+
+    /* Pagina Inicial / pagina01 */
+        .tituloPagina{
+            color: white;
+            text-align: center;
+            font-size: 50px;
+            
+        }
+        
+        .Coluna01{
+            text-align: center;
+            width: 90%; /* 50% do espaço disponível */
+            float: left; /* alinha as colunas lado a lado */
+        }
+
+        .Coluna02{
+            text-align: center;
+            width: 90%; /* 50% do espaço disponível */
+            float: right; /* alinha as colunas lado a lado */
+        }
+
+
+    
+
